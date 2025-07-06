@@ -1,0 +1,53 @@
+{
+  "alumnos": [
+    {
+      "id": 1,
+      "nombre": "Juan Perez",
+      "dni": 12345678,
+      "celular": 123456789,
+      "estado": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Maria Gomez",
+      "dni": 23456789,
+      "celular": 234567890,
+      "estado": 1
+    },
+    {
+      "id": 3,
+      "nombre": "Luis Rodriguez",
+      "dni": 34567890,
+      "celular": 345678901,
+      "estado": 0
+    },
+    {
+      "id": 4,
+      "nombre": "Ana Lopez",
+      "dni": 45678901,
+      "celular": 456789012,
+      "estado": 1
+    },
+    {
+      "id": 5,
+      "nombre": "Carlos Sanchez",
+      "dni": 56789012,
+      "celular": 567890123,
+      "estado": 1
+    },
+    {
+      "id": 6,
+      "nombre": "Sofia Martinez",
+      "dni": 67890123,
+      "celular": 678901234,
+      "estado": 0
+    },
+    {
+      "id": 7,
+      "nombre": "Javier Torres",
+      "dni": 78901234,
+      "celular": 789012345,
+      "estado": 1
+    }
+  ]
+}
