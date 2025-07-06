@@ -1,4 +1,3 @@
-import React from "react";
 import { preguntas } from "./data";
 import Pregunta from "./Pregunta";
 
