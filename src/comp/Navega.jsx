@@ -42,70 +42,37 @@ const Navega = () => {
                 {/* Inicio */}
                 <li className="nav-item">
                   <NavLink className="nav-link" to="inicio">
-                    Inicio
+                    <i className="bi bi-house-door-fill me-1"></i> Inicio
                   </NavLink>
                 </li>
 
                 {/* Cuestionario */}
                 <li className="nav-item">
                   <NavLink className="nav-link" to="cuestionario">
-                    Cuestionario
+                    <i className="bi bi-question-square-fill"></i> Cuestionario
                   </NavLink>
                 </li>
 
                 {/* Numeros Primos */}
                 <li className="nav-item">
                   <NavLink className="nav-link" to="numeros-primos">
-                    Numeros Primos
+                    <i className="bi bi-7-square-fill me-1"></i> Numeros Primos
                   </NavLink>
                 </li>
 
                 {/* Tablero Kanban */}
                 <li className="nav-item">
                   <NavLink className="nav-link" to="tablero-kanban">
-                    Tablero Kanban
+                    <i className="bi bi-columns-gap me-1"></i> Tablero Kanban
                   </NavLink>
                 </li>
 
                 {/* Gestion Alumnos */}
                 <li className="nav-item">
                   <NavLink className="nav-link" to="gestion-alumnos">
-                    Gestion Alumnos
+                    <i className="bi bi-person-lines-fill me-1"></i> Gestion
+                    Alumnos
                   </NavLink>
-                </li>
-
-                {/* Ejemplo - Submenu */}
-                <li className="nav-item dropdown">
-                  <a
-                    className="nav-link dropdown-toggle"
-                    href="#"
-                    id="navbarDropdownMenuLink"
-                    role="button"
-                    data-bs-toggle="dropdown"
-                    aria-expanded="false"
-                  >
-                    Dropdown link
-                  </a>
-                  <ul
-                    className="dropdown-menu"
-                    aria-labelledby="navbarDropdownMenuLink"
-                  >
-                    <li>
-                      <a className="dropdown-item" href="#">
-                        Action
-                      </a>
-                    </li>
-                    <li>
-                      <a className="dropdown-item" href="#">
-                        Another action
-                      </a>
-                    </li>
-                    <li>
-                      <a className="dropdown-item" href="#">
-                        Something else here
-                      </a>
-                    </li>
-                  </ul>
                 </li>
               </ul>
             </div>
