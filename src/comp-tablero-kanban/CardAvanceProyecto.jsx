@@ -81,7 +81,7 @@ const CardAvanceProyecto = (props) => {
                 {/* Fila de IDs */}
                 <div className="d-flex justify-content-between align-items-center mb-2">
                   <span className="badge bg-secondary rounded">
-                    PY-PID: {tarea.proyecto.id}
+                    PY-ID: {tarea.proyecto.id}
                   </span>
                   <span className="badge bg-dark rounded">
                     TR-ID: {tarea.id}

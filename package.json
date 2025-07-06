@@ -11,6 +11,7 @@
     "start": "json-server --watch src/comp-gestion-alumnos/db.json --port 5000"
   },
   "dependencies": {
+    "axios": "^1.10.0",
     "bootstrap": "^5.3.7",
     "bootstrap-icons": "^1.13.1",
     "json-server": "^0.17.4",
